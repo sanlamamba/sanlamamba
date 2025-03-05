@@ -62,8 +62,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sanlamamba&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sanlamamba&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,html,css,php,less,hack">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sanlamamba&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sanlamamba&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak" />  <br>
   <br>
   <!-- <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
 </p>
