@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://www.sanlamamba.com/" target="_blank">San Lamamba</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+# Hi there, I'm <a href="https://www.sanlamamba.com/" target="_blank">San Lamamba</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32" />
 
 <p>
   <a href="https://www.sanlamamba.com" target="_blank"><img src="https://img.shields.io/badge/Website-sanlamamba.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
