@@ -15,7 +15,7 @@
 - 🔭 **Currently building:** [Convia](https://convia-app.com) – an AI service‑desk super‑agent (🚧 under construction)
 - 🌱 **Learning:** Computer Vision & multimodal LLMs
 - 🤝 **Open to:** Collaborating on projects that challenge the status quo
-- 💬 **Ask me about:** Web, Python, AI & DevOps
+- 💬 **Ask me about:** Javascript, Java, Python, AI, Data & DevOps 
 - ♟️ **Fun fact:** Challenge me to a game on Lichess/Chess.com!
 - 📫 **Reach me:** [Website](https://www.sanlamamba.com) • [Email](mailto:contact@sanlamamba.com)
 
