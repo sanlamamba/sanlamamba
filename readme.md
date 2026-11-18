@@ -1,64 +1,79 @@
 <div align="center">
 
-# San-Lamamba Popoda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=San-Lamamba%20Popoda&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Paris&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="San-Lamamba Popoda, Software Engineer" />
 
-**Software Engineer · Applied AI** · Paris, France
+<a href="https://github.com/sanlamamba">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Software+Engineer+%C2%B7+Paris;Building+things+end+to+end;Back-end+%C2%B7+Data+%C2%B7+Cloud+%C2%B7+AI;Currently+into+Go+and+AI+agents" alt="Typing intro" />
+</a>
 
-[![Website](https://img.shields.io/badge/Website-sanlamamba.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sanlamamba.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-san--lamamba-0A66C2?style=flat-square)](https://linkedin.com/in/san-lamamba)
-[![Email](https://img.shields.io/badge/Email-contact%40sanlamamba.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@sanlamamba.com)
+<p>
+  <a href="https://www.sanlamamba.com"><img src="https://img.shields.io/badge/Website-sanlamamba.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/san-lamamba"><img src="https://img.shields.io/badge/LinkedIn-san--lamamba-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:contact@sanlamamba.com"><img src="https://img.shields.io/badge/Email-contact%40sanlamamba.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-I build production systems end to end: back-end services, data platforms and cloud infrastructure,
-with a track record in applied AI (computer vision, RAG, LLM agents). I work across rail and telecom,
-from scoping with business teams to deployment. Fluent in French and English. **Open to new roles.**
+## 🚀 About Me
 
-## What I've shipped
+- 🌱 **Learning:** Go, multi-agent orchestration, context engineering and agent evals
+- 💬 **Ask me about:** back-end architecture, data platforms, Kubernetes, LLM agents… or what I'm building right now
+- ♟️ **Fun fact:** challenge me to a game on Lichess or Chess.com!
+- 📫 **Reach me:** [Website](https://www.sanlamamba.com) • [LinkedIn](https://linkedin.com/in/san-lamamba) • [Email](mailto:contact@sanlamamba.com)
 
-**Athoria · client SNCF Réseau** · 2025 – now
+## 🛠️ Tech Stack
 
-- A computer vision app that identifies railway equipment from a photo. It went from POC to production in 6 months
-  and is used by **20,000 field agents**, with **700+ identifications a day**.
-- Identification is now real time instead of **4 days** of waiting for an expert. It reaches **82% top-1 accuracy** across 160,000+ assets.
-- Adding a new asset takes 10 minutes instead of a 3-hour retraining.
-- A production LLM agent (tool calling, MCP) for asset queries that scores **85%** on a 200-question eval set.
+**Languages**
 
-**Orange · Software Architect, Data & AI** (apprenticeship) · 2024 – 2025
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,java,bash&theme=dark" alt="Python, TypeScript, JavaScript, Go, Java, Bash" />
 
-- Ran the Google Cloud data platform for 12 engineering teams: costs, quotas and security.
-- Automated the prep of 20M+ telemetry records, cutting analysts' prep time from **2 weeks to 2 hours**.
-- Built a RAG assistant and a tool-calling agent (MCP) on BigQuery.
+**Back-end & web**
 
-**Cleed AI** · 2023 – 2024: built RAG pipelines and backend services for AI assistants at 12 enterprise clients, including LVMH.
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,spring,graphql,react,nextjs,postgres,redis&theme=dark" alt="FastAPI, Django, Node.js, Spring, GraphQL, React, Next.js, PostgreSQL, Redis" />
 
-## Stack
+**AI & ML**
 
-**Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn" />
 
-**AI & data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![SAM](https://img.shields.io/badge/SAM-0467DF?style=flat-square)
+![DINOv2](https://img.shields.io/badge/DINOv2-0467DF?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" alt="Elasticsearch" />
+
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logo=dataiku&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
 
 **Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Certified **AWS Solutions Architect – Associate** · **Google Cloud Associate Cloud Engineer**
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,ansible,githubactions,linux,git&theme=dark" alt="Google Cloud, AWS, Docker, Kubernetes, Ansible, GitHub Actions, Linux, Git" />
+
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanlamamba&theme=transparent&hide_border=true" width="49%" alt="Contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanlamamba&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true" width="49%" alt="Contribution activity graph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanlamamba/sanlamamba/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanlamamba/sanlamamba/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/sanlamamba/sanlamamba/output/github-snake.svg" />
+</picture>
+
+## 🏅 Certifications
+
+**AWS Solutions Architect – Associate** · **Google Cloud Associate Cloud Engineer**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
