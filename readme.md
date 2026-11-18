@@ -57,8 +57,18 @@
 <p align="center">
 <table width="100%">
   <tr>
-    <td width="50%"><img src="https://streak-stats.demolab.com?user=sanlamamba&theme=dark&hide_border=true&background=00000000&date_format=j%20M%20Y" width="100%"/></td>
-    <td width="50%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sanlamamba&theme=react-dark&hide_border=true&area=true&bg_color=00000000" width="100%"/></td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sanlamamba&hide_border=true&background=00000000&date_format=j%20M%20Y&theme=dark" />
+        <img src="https://streak-stats.demolab.com?user=sanlamamba&hide_border=true&background=00000000&date_format=j%20M%20Y&theme=default" width="100%" alt="Contribution streak" />
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanlamamba&hide_border=true&area=true&bg_color=00000000&line=FB8C00&area_color=FB8C00&color=C9D1D9&title_color=C9D1D9&point=FFFFFF" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanlamamba&hide_border=true&area=true&bg_color=00000000&line=FB8C00&area_color=FB8C00&color=24292F&title_color=24292F&point=24292F" width="100%" alt="Contribution activity graph" />
+      </picture>
+    </td>
   </tr>
 </table>
 </p>
